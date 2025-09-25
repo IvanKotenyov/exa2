@@ -14,7 +14,7 @@ news_service/
 Создайте виртуальное окружение:
 
 python -m venv env
-source env/bin/activate  # Linux/Mac
+source env/bin/activate  # Linux
 
 
 Установите зависимости:
