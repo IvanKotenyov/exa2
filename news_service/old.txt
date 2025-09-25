@@ -1,0 +1,5 @@
+SECRET_KEY = 'django-insecure-whc6&$fy_z(u4*-b&lbari8-3$9ht@cr&n!-2v+ngv$8)6$@-h'
+
+
+
+24a14311031f44b297cca9c443bfacb3 api news
